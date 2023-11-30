@@ -3,9 +3,9 @@
 Created a navbar using React 
 . Dark Mode switch Button 
 
-![Alt text](.\src\react-navbar.png "Title")
+![Alt text](./public/react-navbar.png "Title")
 
-<img src='./src/react-navbar.png'>
+<img src='./public/react-navbar.png'>
 
 ![alt text](https://github.com/[ashishpateldev]/[react-navbar]/blob/[branch]/src/react-navbar.png=true)
 
