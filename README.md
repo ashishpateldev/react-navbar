@@ -3,4 +3,4 @@
 Created a navbar using React 
 . Dark Mode switch Button 
 
-<img src='./src/react-navbar.png'>
+<img title="Screenshot" alt="Image" src="./src/react-navbar.png">
